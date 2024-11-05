@@ -22,15 +22,23 @@ The Netflix Homepage Clone includes:
 ## 📸 Screenshots
 
 **Homepage Banner**  
-![Homepage Banner](./screenshots/banner.png)  
+![Homepage Banner](./screenshots/Screenshot%20(216).png)  
 *The top banner area, displaying a featured show/movie.*
 
 **Content Section**  
-![Content Section](./screenshots/content-section.png)  
+![Content Section](./screenshots/Screenshot%20(217).png)  
 *Displays rows of content thumbnails in various categories.*
 
+**FAQ Section**  
+![Content Section](./screenshots/Screenshot%20(218).png)  
+*Displays FAQ Section.*
+
+**Footer Section**  
+![Footer Section](./screenshots/Screenshot%20(219).png)  
+*Displays Footer Section.*
+
 **Responsive View**  
-![Responsive View](./screenshots/responsive-view.png)  
+![Responsive View](./screenshots/Screenshot%20(225).png)  
 *Adapted layout for mobile viewing.*
 
 ## 🚀 How to Use
@@ -38,4 +46,3 @@ The Netflix Homepage Clone includes:
 2. Open the `index.html` file in your browser.
 3. Hover over thumbnails to see CSS-based hover effects and enjoy browsing through the content sections.
 
-## 📂 Project Structure
